@@ -1,0 +1,30 @@
+C:\Users\ASUS\source\repos\BookBox UI\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\ASUS\source\repos\BookBox UI\bin\Debug\net8.0\appsettings.json
+C:\Users\ASUS\source\repos\BookBox UI\bin\Debug\net8.0\BookBox UI.staticwebassets.runtime.json
+C:\Users\ASUS\source\repos\BookBox UI\bin\Debug\net8.0\BookBox UI.exe
+C:\Users\ASUS\source\repos\BookBox UI\bin\Debug\net8.0\BookBox UI.deps.json
+C:\Users\ASUS\source\repos\BookBox UI\bin\Debug\net8.0\BookBox UI.runtimeconfig.json
+C:\Users\ASUS\source\repos\BookBox UI\bin\Debug\net8.0\BookBox UI.dll
+C:\Users\ASUS\source\repos\BookBox UI\bin\Debug\net8.0\BookBox UI.pdb
+C:\Users\ASUS\source\repos\BookBox UI\obj\Debug\net8.0\BookBox UI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\BookBox UI\obj\Debug\net8.0\BookBox UI.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\BookBox UI\obj\Debug\net8.0\BookBox UI.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\BookBox UI\obj\Debug\net8.0\BookBox UI.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\BookBox UI\obj\Debug\net8.0\BookBox UI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ASUS\source\repos\BookBox UI\obj\Debug\net8.0\BookBox UI.RazorAssemblyInfo.cache
+C:\Users\ASUS\source\repos\BookBox UI\obj\Debug\net8.0\BookBox UI.RazorAssemblyInfo.cs
+C:\Users\ASUS\source\repos\BookBox UI\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\ASUS\source\repos\BookBox UI\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\ASUS\source\repos\BookBox UI\obj\Debug\net8.0\staticwebassets\msbuild.BookBox UI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\ASUS\source\repos\BookBox UI\obj\Debug\net8.0\staticwebassets\msbuild.build.BookBox UI.props
+C:\Users\ASUS\source\repos\BookBox UI\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.BookBox UI.props
+C:\Users\ASUS\source\repos\BookBox UI\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.BookBox UI.props
+C:\Users\ASUS\source\repos\BookBox UI\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\ASUS\source\repos\BookBox UI\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\ASUS\source\repos\BookBox UI\obj\Debug\net8.0\scopedcss\bundle\BookBox UI.styles.css
+C:\Users\ASUS\source\repos\BookBox UI\obj\Debug\net8.0\scopedcss\projectbundle\BookBox UI.bundle.scp.css
+C:\Users\ASUS\source\repos\BookBox UI\obj\Debug\net8.0\BookBox UI.dll
+C:\Users\ASUS\source\repos\BookBox UI\obj\Debug\net8.0\refint\BookBox UI.dll
+C:\Users\ASUS\source\repos\BookBox UI\obj\Debug\net8.0\BookBox UI.pdb
+C:\Users\ASUS\source\repos\BookBox UI\obj\Debug\net8.0\BookBox UI.genruntimeconfig.cache
+C:\Users\ASUS\source\repos\BookBox UI\obj\Debug\net8.0\ref\BookBox UI.dll

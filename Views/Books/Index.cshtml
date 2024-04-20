@@ -1,0 +1,31 @@
+﻿@model IEnumerable<BookBox_UI.Models.DTO.BookDto>
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+
+@{
+}
+
+<h1 class="mt-3"> Books</h1>
+<table class="table table-bordered">
+    <thead>
+        <tr>
+            <th>Title</th>
+            <th>Price</th>
+            <th>Category Name</th>
+            <th>Author Name</th>
+            <th>ISBN</th>
+            
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var book in Model)
+        {
+            <tr>
+                <td>@book.Title</td>
+                <td>@book.Price</td>
+                <td>@book.CategoryName</td>
+                <td>@book.AuthorName</td>
+                <td>@book.ISBN</td>
+            </tr>
+        }
+    </tbody>
+</table>
