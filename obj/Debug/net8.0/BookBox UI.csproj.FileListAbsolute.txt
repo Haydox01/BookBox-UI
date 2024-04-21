@@ -28,3 +28,4 @@ C:\Users\ASUS\source\repos\BookBox UI\obj\Debug\net8.0\refint\BookBox UI.dll
 C:\Users\ASUS\source\repos\BookBox UI\obj\Debug\net8.0\BookBox UI.pdb
 C:\Users\ASUS\source\repos\BookBox UI\obj\Debug\net8.0\BookBox UI.genruntimeconfig.cache
 C:\Users\ASUS\source\repos\BookBox UI\obj\Debug\net8.0\ref\BookBox UI.dll
+C:\Users\ASUS\source\repos\BookBox UI\obj\Debug\net8.0\BookBox UI.sourcelink.json
